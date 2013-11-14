@@ -10,7 +10,25 @@ You may have noticed in fonts you've seen before that, while each letter has its
 
 Note the similarity between the upper terminals on this c and f:
 
-<img src="images/slide6.png" alt="" height="592" width="789">
+<figure>
+	<img src="images/slide6.png" alt="all images should have alt text" />
+	<figcaption>
+		Caption goes here...
+	</figcaption>
+</figure>
+
+<figure>
+	![alt text for image](images/slide6.png)
+	<figcaption>
+		Caption goes here...
+	</figcaption>
+</figure>
+
+<!--- Better markup for images...
+
+![alt text for image](images/slide6.png)
+
+-->
 
 Their shapes indicate that they belong in the same group, even though they are subtly different. The terminals are one of the identifying traits of a font, and generally are repeated on many of the letter forms.
 
