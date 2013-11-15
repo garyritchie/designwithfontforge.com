@@ -135,8 +135,19 @@ header h2 {
   float: left;
 }
 
+#main-content figure {
+  margin: 0;
+  padding: 0;
+}
+
+#main-content figure figcaption {
+  font-size: 10px;
+  font-weight: bold;
+}
+
 #main-content img {
   max-width: 100%;
+  height: auto;
 }
 
 aside#sidebar {
